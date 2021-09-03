@@ -25,12 +25,6 @@ Open [http://localhost:3001](http://localhost:3000) to view it in the browser.
 
 2. Used a API validator middleware which deals with the authority of every API call. 
 
-    Every API call should contain this : 
-    ## header 
-    {
-        `validationKey` : `######^&dmckjfsjkdkfj$$$` 
-    }
-
 3. Created a server and three API to deal with creadetial of a user.
 
 4. First API (`Signup`) deals with the signing up of user details and used `bcrypt` to has password before saving. ( Strong password validation is not applied here as I have done it in the front end part ) 
