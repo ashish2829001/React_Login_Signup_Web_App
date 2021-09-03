@@ -1,8 +1,6 @@
 #### ----------------- Developer ------------------####
 #### `Name` ------ `Ashish Pratap Singh` ----------####
 #### `College` ------- `IIT Kharappur` ------------####
-#### `Email` ----- `ashish2829001@gmail.com` ------####
-#### `Contact` -------- `8709013012` --------------####
 
 # Bankend Server for React Web App
 
